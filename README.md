@@ -2,7 +2,7 @@
 Spells the letters as you type them
 
 This little project is for my 3-years old daughter, who loves to type on my keyboard.
-Now the letters she stikes appears on screen with different colors and sound!
+Now the letters she strikes appears on screen with different colors and sound!
 
 Very simple, but very effective.
 She knows verys well a few letters: B, O, S
